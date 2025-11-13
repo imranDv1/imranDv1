@@ -1,43 +1,50 @@
-# Hi there 👋, I’m Imran Ahmed Wali
+# Hi there 👋, I'm Imran Ahmed Wali
 
-### 🌐 Full-Stack & Mobile Developer | UI/UX Enthusiast | 20 years old | Somalia
+[![Profile Views](https://komarev.com/ghpvc/?username=imrandv&color=brightgreen)](https://github.com/imrandv)
 
-I’m a passionate **Full-Stack Web & Mobile Developer** with **2+ years of experience** building modern, high-performance applications. I specialize in **Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB, Prisma, Supabase, Neon, Stripe, Socket.IO, and React Native with Expo**.  
+## 🌐 About Me
+I am a **Full-Stack & Mobile Developer** from Somalia specializing in **web and mobile applications**.  
+I work with **Next.js, React Native (Expo), TypeScript, Tailwind CSS, Node.js, MongoDB, Prisma, Supabase, Neon, Stripe, Socket.IO**.  
 
-I create **scalable digital solutions** that are visually appealing, technically robust, and work seamlessly across web and mobile platforms.  
-
----
-
-### 🛠 Skills
-- **Frontend (Web):** Next.js, TypeScript, Tailwind CSS, UI/UX Design, Figma  
-- **Backend:** Node.js, MongoDB, Prisma, Supabase, NeonDB 
-- **Mobile Development:** React Native, Expo, Cross-platform apps  
-- **Payments & APIs:** Stripe, Third-party APIs  
+I love creating **beautiful, performant, and cross-platform apps** that solve real-world problems.
 
 ---
 
-### 💡 About Me
-- Passionate about solving real-world problems through code.  
-- I focus on performance, accessibility, and smooth user interactions.  
-- Always learning, experimenting, and refining my skills to stay ahead.  
+## 🛠️ Skills
+
+### Web
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
-### 🏆 Testimonials
-> "Working with him was a game changer!" — Saah  
+## 📊 GitHub Stats
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrandv&show_icons=true&theme=tokyonight&count_private=true)
 
-> "We increased our conversions by 200%." — Rivorea  
-
-> "Highly skilled full-stack developer, reliable and easy to work with." — Ahmed Abdi  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imrandv&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect with Me
-- Portfolio: [imrandv.vercel.app](https://imrandv.vercel.app/)  
-- Twitter: [@Imran](https://twitter.com/)  
-- LinkedIn: [Imran Ahmed Wali](https://linkedin.com/)  
+## ⚡ Fun Fact
+- 🚀 I love building apps that **work on web & mobile simultaneously**  
+- 🎨 Passionate about **UI/UX design & clean code**  
+- 💡 Always learning and experimenting with new technologies  
 
 ---
 
-### ⚡ Fun Fact
-I combine **bold strategy, storytelling, and timeless design** to create experiences that resonate on **both web and mobile**.  
+## 📫 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://imrandv.vercel.app/)
