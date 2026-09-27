@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-imrandv.vercel.app-black?style=for-the-badge)](https://imrandv.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-imran.eduvorea.com-black?style=for-the-badge)](https://imrandv.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-ahmed-082724305)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imrandv1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imrandv1)
